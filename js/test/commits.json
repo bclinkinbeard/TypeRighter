@@ -1,0 +1,1292 @@
+var commits = [
+  {
+    "parents": [
+      {
+        "sha": "b4d23e477355ec9cb5df3ac033336abea9a094b1",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/b4d23e477355ec9cb5df3ac033336abea9a094b1"
+      }
+    ],
+    "sha": "1474c067f22e8232e873ac162bb882dbd590c9f0",
+    "committer": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "f37682574ad6fc1a78bcba1d19209c16756d9d10",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/f37682574ad6fc1a78bcba1d19209c16756d9d10"
+      },
+      "committer": {
+        "date": "2012-09-17T11:57:20-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "message": "CONTRIBUTING.md: more contents links",
+      "author": {
+        "date": "2012-09-17T11:57:20-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/1474c067f22e8232e873ac162bb882dbd590c9f0"
+    },
+    "author": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/1474c067f22e8232e873ac162bb882dbd590c9f0"
+  },
+  {
+    "parents": [
+      {
+        "sha": "4b469ead3d0bef6c2585da7beacba29e02e91ac6",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/4b469ead3d0bef6c2585da7beacba29e02e91ac6"
+      }
+    ],
+    "sha": "b4d23e477355ec9cb5df3ac033336abea9a094b1",
+    "committer": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "948395cafd0130cb27990e877ad17e216b0d451b",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/948395cafd0130cb27990e877ad17e216b0d451b"
+      },
+      "committer": {
+        "date": "2012-09-17T11:55:02-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "message": "CONTRIBUTING.md: adds top header",
+      "author": {
+        "date": "2012-09-17T11:55:02-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/b4d23e477355ec9cb5df3ac033336abea9a094b1"
+    },
+    "author": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/b4d23e477355ec9cb5df3ac033336abea9a094b1"
+  },
+  {
+    "parents": [
+      {
+        "sha": "42dd6b1c16d12c8ec0f8f13d001bcbcb96fda3c8",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/42dd6b1c16d12c8ec0f8f13d001bcbcb96fda3c8"
+      }
+    ],
+    "sha": "4b469ead3d0bef6c2585da7beacba29e02e91ac6",
+    "committer": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "4547554a7b295e44fd1bb80f11fbf7195b9e3246",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/4547554a7b295e44fd1bb80f11fbf7195b9e3246"
+      },
+      "committer": {
+        "date": "2012-09-17T11:54:24-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "message": "CONTRIBUTING.md: fixes fragment url, #jquery-core-style-guide",
+      "author": {
+        "date": "2012-09-17T11:54:24-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/4b469ead3d0bef6c2585da7beacba29e02e91ac6"
+    },
+    "author": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/4b469ead3d0bef6c2585da7beacba29e02e91ac6"
+  },
+  {
+    "parents": [
+      {
+        "sha": "3cb36f7a42a200cead4723841015f61301b02a52",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/3cb36f7a42a200cead4723841015f61301b02a52"
+      }
+    ],
+    "sha": "42dd6b1c16d12c8ec0f8f13d001bcbcb96fda3c8",
+    "committer": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "ba311f6c48e1c6818f0badd58b0e06902f785781",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/ba311f6c48e1c6818f0badd58b0e06902f785781"
+      },
+      "committer": {
+        "date": "2012-09-17T11:53:05-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "message": "Second draft of CONTRIBUTING.md",
+      "author": {
+        "date": "2012-09-17T11:53:05-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/42dd6b1c16d12c8ec0f8f13d001bcbcb96fda3c8"
+    },
+    "author": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/42dd6b1c16d12c8ec0f8f13d001bcbcb96fda3c8"
+  },
+  {
+    "parents": [
+      {
+        "sha": "86f8d9f1a5097b3b9d80cde3a6cc8ecde9956bac",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/86f8d9f1a5097b3b9d80cde3a6cc8ecde9956bac"
+      }
+    ],
+    "sha": "3cb36f7a42a200cead4723841015f61301b02a52",
+    "committer": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "3288cea1bde2f459f04f66f649eb213660ae9701",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/3288cea1bde2f459f04f66f649eb213660ae9701"
+      },
+      "committer": {
+        "date": "2012-09-17T11:29:58-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "message": "Initial draft of CONTRIBUTING.md",
+      "author": {
+        "date": "2012-09-17T11:29:58-07:00",
+        "email": "waldron.rick@gmail.com",
+        "name": "Rick Waldron"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/3cb36f7a42a200cead4723841015f61301b02a52"
+    },
+    "author": {
+      "login": "rwldrn",
+      "avatar_url": "https://secure.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "36c697d974542aadaee06a0f39cb1437",
+      "id": 27985,
+      "url": "https://api.github.com/users/rwldrn"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/3cb36f7a42a200cead4723841015f61301b02a52"
+  },
+  {
+    "parents": [
+      {
+        "sha": "e755c194161e1dc6793cbb690ba8334dad560c8f",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/e755c194161e1dc6793cbb690ba8334dad560c8f"
+      }
+    ],
+    "sha": "86f8d9f1a5097b3b9d80cde3a6cc8ecde9956bac",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "d918d7f7aeac260414621aceaec7843e49c01672",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/d918d7f7aeac260414621aceaec7843e49c01672"
+      },
+      "committer": {
+        "date": "2012-09-15T13:19:51-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Minor typo with Homebrew link. Close gh-929.",
+      "author": {
+        "date": "2012-09-15T13:19:51-07:00",
+        "email": "david@joyvuu.com",
+        "name": "Dave Riddle"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/86f8d9f1a5097b3b9d80cde3a6cc8ecde9956bac"
+    },
+    "author": {
+      "login": "joyvuu-dave",
+      "avatar_url": "https://secure.gravatar.com/avatar/e1a49e8e3c9ec8e8bd740b29cd732f2f?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "e1a49e8e3c9ec8e8bd740b29cd732f2f",
+      "id": 68452,
+      "url": "https://api.github.com/users/joyvuu-dave"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/86f8d9f1a5097b3b9d80cde3a6cc8ecde9956bac"
+  },
+  {
+    "parents": [
+      {
+        "sha": "560c178c82da95b2f88ae518552463d87fe5adbf",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/560c178c82da95b2f88ae518552463d87fe5adbf"
+      }
+    ],
+    "sha": "e755c194161e1dc6793cbb690ba8334dad560c8f",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "5a6156f723c77b65117aff0c65fbe23d8a920cf2",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/5a6156f723c77b65117aff0c65fbe23d8a920cf2"
+      },
+      "committer": {
+        "date": "2012-09-15T10:10:37-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Fix #12447: Ensure starting-point calc takes finite time. Close gh-922.",
+      "author": {
+        "date": "2012-09-15T08:57:01-07:00",
+        "email": "richard.gibson@gmail.com",
+        "name": "Richard Gibson"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/e755c194161e1dc6793cbb690ba8334dad560c8f"
+    },
+    "author": {
+      "login": "gibson042",
+      "avatar_url": "https://secure.gravatar.com/avatar/f16d4602c1c90646438a0b534ff61889?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "f16d4602c1c90646438a0b534ff61889",
+      "id": 1199584,
+      "url": "https://api.github.com/users/gibson042"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/e755c194161e1dc6793cbb690ba8334dad560c8f"
+  },
+  {
+    "parents": [
+      {
+        "sha": "b0a352bfa76cbe1b65f8186d3cb90fe35a08866d",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/b0a352bfa76cbe1b65f8186d3cb90fe35a08866d"
+      }
+    ],
+    "sha": "560c178c82da95b2f88ae518552463d87fe5adbf",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 4,
+      "tree": {
+        "sha": "6d85815f89acb5d3d6ad4a3f1a126cfb91ff5893",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/6d85815f89acb5d3d6ad4a3f1a126cfb91ff5893"
+      },
+      "committer": {
+        "date": "2012-09-14T07:15:10-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Fix #12536. Start at .offset() 0,0 if no getBoundingClientRect.\n\nThis lets us still add the other offset components to the number so they're less wrong. Affects BlackBerry 5 and iOS 3, everyone else has gBCR.",
+      "author": {
+        "date": "2012-09-14T07:14:40-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/560c178c82da95b2f88ae518552463d87fe5adbf"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/560c178c82da95b2f88ae518552463d87fe5adbf"
+  },
+  {
+    "parents": [
+      {
+        "sha": "74cdd784975ba6e628d1934a859faeb017824a5f",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/74cdd784975ba6e628d1934a859faeb017824a5f"
+      }
+    ],
+    "sha": "b0a352bfa76cbe1b65f8186d3cb90fe35a08866d",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 1,
+      "tree": {
+        "sha": "7261586dd603c87e1238c92e4b08a4417878f9e2",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/7261586dd603c87e1238c92e4b08a4417878f9e2"
+      },
+      "committer": {
+        "date": "2012-09-13T15:47:07-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Fix #12534. Don't die on browsers lacking getBoundingClientRect.",
+      "author": {
+        "date": "2012-09-13T15:47:07-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/b0a352bfa76cbe1b65f8186d3cb90fe35a08866d"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/b0a352bfa76cbe1b65f8186d3cb90fe35a08866d"
+  },
+  {
+    "parents": [
+      {
+        "sha": "9c5089a60d479a959b290a5b4ab8ef38c985e963",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/9c5089a60d479a959b290a5b4ab8ef38c985e963"
+      }
+    ],
+    "sha": "74cdd784975ba6e628d1934a859faeb017824a5f",
+    "committer": {
+      "login": "jaubourg",
+      "avatar_url": "https://secure.gravatar.com/avatar/3132902b0c2bd9b95eced29c649263a1?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "3132902b0c2bd9b95eced29c649263a1",
+      "id": 160354,
+      "url": "https://api.github.com/users/jaubourg"
+    },
+    "commit": {
+      "comment_count": 1,
+      "tree": {
+        "sha": "8ff8503473fbafff2b4d2e563b936e2d9271b570",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/8ff8503473fbafff2b4d2e563b936e2d9271b570"
+      },
+      "committer": {
+        "date": "2012-09-13T06:44:12-07:00",
+        "email": "j@ubourg.net",
+        "name": "jaubourg"
+      },
+      "message": "deferred.promise(obj) should work with non-objects. Fixes #12521. Much needed unit tests added!",
+      "author": {
+        "date": "2012-09-13T06:44:12-07:00",
+        "email": "j@ubourg.net",
+        "name": "jaubourg"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/74cdd784975ba6e628d1934a859faeb017824a5f"
+    },
+    "author": {
+      "login": "jaubourg",
+      "avatar_url": "https://secure.gravatar.com/avatar/3132902b0c2bd9b95eced29c649263a1?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "3132902b0c2bd9b95eced29c649263a1",
+      "id": 160354,
+      "url": "https://api.github.com/users/jaubourg"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/74cdd784975ba6e628d1934a859faeb017824a5f"
+  },
+  {
+    "parents": [
+      {
+        "sha": "01d406522095a26788b1975852ad7c1ee7cf6e34",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/01d406522095a26788b1975852ad7c1ee7cf6e34"
+      }
+    ],
+    "sha": "9c5089a60d479a959b290a5b4ab8ef38c985e963",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "d3dbd7f735108ee5eac0c7ade5a8eb16535142e0",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/d3dbd7f735108ee5eac0c7ade5a8eb16535142e0"
+      },
+      "committer": {
+        "date": "2012-09-11T12:42:10-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Chrome fails in ajax.js tests because TestSwarm/Ngnix won't give HEAD requests any respect. Skip them rather than hear Swarmy call FAILURE on each run.",
+      "author": {
+        "date": "2012-09-11T12:41:46-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/9c5089a60d479a959b290a5b4ab8ef38c985e963"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/9c5089a60d479a959b290a5b4ab8ef38c985e963"
+  },
+  {
+    "parents": [
+      {
+        "sha": "71c1ae1718c0dd639a866c04f57be27028d506e8",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/71c1ae1718c0dd639a866c04f57be27028d506e8"
+      }
+    ],
+    "sha": "01d406522095a26788b1975852ad7c1ee7cf6e34",
+    "committer": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "3d23f4a8fd483a366f63b134ff8f2937b189b136",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/3d23f4a8fd483a366f63b134ff8f2937b189b136"
+      },
+      "committer": {
+        "date": "2012-09-11T11:50:23-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "message": "Sizzle: fix  selector in Chrome 21. Fixes #12492.",
+      "author": {
+        "date": "2012-09-11T11:50:23-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/01d406522095a26788b1975852ad7c1ee7cf6e34"
+    },
+    "author": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/01d406522095a26788b1975852ad7c1ee7cf6e34"
+  },
+  {
+    "parents": [
+      {
+        "sha": "b62e5522910766a8fb9f1cf29e069360ae75a902",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/b62e5522910766a8fb9f1cf29e069360ae75a902"
+      }
+    ],
+    "sha": "71c1ae1718c0dd639a866c04f57be27028d506e8",
+    "committer": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "6a4a91c0f24407169c3aab6fe36d84725199a18b",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/6a4a91c0f24407169c3aab6fe36d84725199a18b"
+      },
+      "committer": {
+        "date": "2012-09-11T10:10:59-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "message": "Sizzle: tagged versions are now in the repo; update selector engine list",
+      "author": {
+        "date": "2012-09-11T10:10:59-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/71c1ae1718c0dd639a866c04f57be27028d506e8"
+    },
+    "author": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/71c1ae1718c0dd639a866c04f57be27028d506e8"
+  },
+  {
+    "parents": [
+      {
+        "sha": "5fb258b89500bbe5d01a54e4d65b0d441ebcb618",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/5fb258b89500bbe5d01a54e4d65b0d441ebcb618"
+      }
+    ],
+    "sha": "b62e5522910766a8fb9f1cf29e069360ae75a902",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 3,
+      "tree": {
+        "sha": "960ca58d97b4f8e4e5b63e8ba00e4d54b53dfe95",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/960ca58d97b4f8e4e5b63e8ba00e4d54b53dfe95"
+      },
+      "committer": {
+        "date": "2012-09-09T19:03:25-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Fix #12554. Sanitize data from POST. Close gh-908.",
+      "author": {
+        "date": "2012-09-09T19:00:53-07:00",
+        "email": "markus.staab@redaxo.de",
+        "name": "Markus Staab"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/b62e5522910766a8fb9f1cf29e069360ae75a902"
+    },
+    "author": {
+      "login": "staabm",
+      "avatar_url": "https://secure.gravatar.com/avatar/a40b83540078e11fab32334db9770b84?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "a40b83540078e11fab32334db9770b84",
+      "id": 120441,
+      "url": "https://api.github.com/users/staabm"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/b62e5522910766a8fb9f1cf29e069360ae75a902"
+  },
+  {
+    "parents": [
+      {
+        "sha": "9b67b4c0ef311f96d6e035fd38bbfbe42a82b392",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/9b67b4c0ef311f96d6e035fd38bbfbe42a82b392"
+      }
+    ],
+    "sha": "5fb258b89500bbe5d01a54e4d65b0d441ebcb618",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "b76a2b82199c33a9d3d18d7b72b0a5dd4327ae6b",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/b76a2b82199c33a9d3d18d7b72b0a5dd4327ae6b"
+      },
+      "committer": {
+        "date": "2012-09-09T18:23:34-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Remove superfluous `@` in compressed header. Close gh-925.\n\nThanks @vlakoff!",
+      "author": {
+        "date": "2012-09-09T18:23:17-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/5fb258b89500bbe5d01a54e4d65b0d441ebcb618"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/5fb258b89500bbe5d01a54e4d65b0d441ebcb618"
+  },
+  {
+    "parents": [
+      {
+        "sha": "c79a533ffd3e063a498fde6bdb1b934c7b4b47ab",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/c79a533ffd3e063a498fde6bdb1b934c7b4b47ab"
+      }
+    ],
+    "sha": "9b67b4c0ef311f96d6e035fd38bbfbe42a82b392",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "dbce43b905855701d4df6119e348ede2044e24b6",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/dbce43b905855701d4df6119e348ede2044e24b6"
+      },
+      "committer": {
+        "date": "2012-09-09T18:21:42-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Fix #12436, make delegated events fast again. Close gh-923.\n\nRetains the rooted-at-delegateTarget behavior fixed in #12383 by afd717df9e.",
+      "author": {
+        "date": "2012-09-09T17:47:07-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/9b67b4c0ef311f96d6e035fd38bbfbe42a82b392"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/9b67b4c0ef311f96d6e035fd38bbfbe42a82b392"
+  },
+  {
+    "parents": [
+      {
+        "sha": "949dfe52bc228efe2d0cb2d696b822ef2a5723d1",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/949dfe52bc228efe2d0cb2d696b822ef2a5723d1"
+      }
+    ],
+    "sha": "c79a533ffd3e063a498fde6bdb1b934c7b4b47ab",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "8c292d9f2059b2c1c741a9a7546e5fd128fc6b53",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/8c292d9f2059b2c1c741a9a7546e5fd128fc6b53"
+      },
+      "committer": {
+        "date": "2012-09-09T18:21:08-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Remove useless guard for `a`. Close gh-918.\n\nThanks @staabm!",
+      "author": {
+        "date": "2012-09-09T17:56:44-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/c79a533ffd3e063a498fde6bdb1b934c7b4b47ab"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/c79a533ffd3e063a498fde6bdb1b934c7b4b47ab"
+  },
+  {
+    "parents": [
+      {
+        "sha": "1c99b568fd6e7126cccf849bfe472d28a7ad895e",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/1c99b568fd6e7126cccf849bfe472d28a7ad895e"
+      }
+    ],
+    "sha": "949dfe52bc228efe2d0cb2d696b822ef2a5723d1",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "5c1709b9231bbaa2e8c7249d2272c4d2be61aa09",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/5c1709b9231bbaa2e8c7249d2272c4d2be61aa09"
+      },
+      "committer": {
+        "date": "2012-09-09T18:19:27-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Update .editorconfig with new properties. Close gh-915.\n\nSee http://editorconfig.org",
+      "author": {
+        "date": "2012-08-28T16:14:48-07:00",
+        "email": "sindresorhus@gmail.com",
+        "name": "Sindre Sorhus"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/949dfe52bc228efe2d0cb2d696b822ef2a5723d1"
+    },
+    "author": {
+      "login": "sindresorhus",
+      "avatar_url": "https://secure.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "d36a92237c75c5337c17b60d90686bf9",
+      "id": 170270,
+      "url": "https://api.github.com/users/sindresorhus"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/949dfe52bc228efe2d0cb2d696b822ef2a5723d1"
+  },
+  {
+    "parents": [
+      {
+        "sha": "bc3a47f83afb22451390b05c33b7b2c2654a7d6e",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/bc3a47f83afb22451390b05c33b7b2c2654a7d6e"
+      }
+    ],
+    "sha": "1c99b568fd6e7126cccf849bfe472d28a7ad895e",
+    "committer": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "c437107bd9355367ff3fa267293c684b4cb49d17",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/c437107bd9355367ff3fa267293c684b4cb49d17"
+      },
+      "committer": {
+        "date": "2012-09-08T11:31:31-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "message": "Sizzle: adjustment for speed totals display",
+      "author": {
+        "date": "2012-09-08T11:31:31-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/1c99b568fd6e7126cccf849bfe472d28a7ad895e"
+    },
+    "author": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/1c99b568fd6e7126cccf849bfe472d28a7ad895e"
+  },
+  {
+    "parents": [
+      {
+        "sha": "2a1e5eccf510bd5c3527121e1808cdc687b3a721",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/2a1e5eccf510bd5c3527121e1808cdc687b3a721"
+      }
+    ],
+    "sha": "bc3a47f83afb22451390b05c33b7b2c2654a7d6e",
+    "committer": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "5121ec79f1ace382dd8c38c0b03a9d307959ea4c",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/5121ec79f1ace382dd8c38c0b03a9d307959ea4c"
+      },
+      "committer": {
+        "date": "2012-09-08T10:06:17-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "message": "Update Sizzle: adds custom performance suite for testing across multiple selector engines and multiple versions of Sizzle",
+      "author": {
+        "date": "2012-09-08T10:06:17-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/bc3a47f83afb22451390b05c33b7b2c2654a7d6e"
+    },
+    "author": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/bc3a47f83afb22451390b05c33b7b2c2654a7d6e"
+  },
+  {
+    "parents": [
+      {
+        "sha": "1ad614b4a97e73d1fcb0b677e0953abebcc6989f",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/1ad614b4a97e73d1fcb0b677e0953abebcc6989f"
+      }
+    ],
+    "sha": "2a1e5eccf510bd5c3527121e1808cdc687b3a721",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "38606430046eb89d832855bae63bd44ccb072e47",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/38606430046eb89d832855bae63bd44ccb072e47"
+      },
+      "committer": {
+        "date": "2012-09-05T19:01:35-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Shim/shiv the datalist element for crabby Uncle oldIE.",
+      "author": {
+        "date": "2012-09-05T19:01:35-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/2a1e5eccf510bd5c3527121e1808cdc687b3a721"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/2a1e5eccf510bd5c3527121e1808cdc687b3a721"
+  },
+  {
+    "parents": [
+      {
+        "sha": "705755ce48697d27192c3627d79bfd5029f72253",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/705755ce48697d27192c3627d79bfd5029f72253"
+      }
+    ],
+    "sha": "1ad614b4a97e73d1fcb0b677e0953abebcc6989f",
+    "committer": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "24efb57a66115e934046bf3d710acc155e51bd6f",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/24efb57a66115e934046bf3d710acc155e51bd6f"
+      },
+      "committer": {
+        "date": "2012-09-05T15:13:31-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "message": "Update Sizzle: authors.txt update and fix failing tests caused by QUnit's html addition",
+      "author": {
+        "date": "2012-09-05T15:13:31-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/1ad614b4a97e73d1fcb0b677e0953abebcc6989f"
+    },
+    "author": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/1ad614b4a97e73d1fcb0b677e0953abebcc6989f"
+  },
+  {
+    "parents": [
+      {
+        "sha": "6bc2a87943f59ad277cdee26aec1c25949c0f091",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/6bc2a87943f59ad277cdee26aec1c25949c0f091"
+      }
+    ],
+    "sha": "705755ce48697d27192c3627d79bfd5029f72253",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "748d4016fa5442332f2d5c37c4ccb982e509ba98",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/748d4016fa5442332f2d5c37c4ccb982e509ba98"
+      },
+      "committer": {
+        "date": "2012-09-05T13:22:40-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Update to QUnit 1.10.0",
+      "author": {
+        "date": "2012-09-05T13:22:40-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/705755ce48697d27192c3627d79bfd5029f72253"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/705755ce48697d27192c3627d79bfd5029f72253"
+  },
+  {
+    "parents": [
+      {
+        "sha": "e06a8cae3a1de58b770a66cbd124cf50e809fb31",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/e06a8cae3a1de58b770a66cbd124cf50e809fb31"
+      }
+    ],
+    "sha": "6bc2a87943f59ad277cdee26aec1c25949c0f091",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "69c8ca62ff6da8cd75796d9ba867f202262ecb54",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/69c8ca62ff6da8cd75796d9ba867f202262ecb54"
+      },
+      "committer": {
+        "date": "2012-08-30T14:17:27-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Updating the source version to 1.8.2pre",
+      "author": {
+        "date": "2012-08-30T14:17:27-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/6bc2a87943f59ad277cdee26aec1c25949c0f091"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/6bc2a87943f59ad277cdee26aec1c25949c0f091"
+  },
+  {
+    "parents": [
+      {
+        "sha": "a31f28b02630e9554bc1900f6a35ef1b310cc3e2",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/a31f28b02630e9554bc1900f6a35ef1b310cc3e2"
+      }
+    ],
+    "sha": "e06a8cae3a1de58b770a66cbd124cf50e809fb31",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "bbabd07a3fac0728c615f541b0710c765006abb6",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/bbabd07a3fac0728c615f541b0710c765006abb6"
+      },
+      "committer": {
+        "date": "2012-08-30T14:17:08-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Tagging the 1.8.1 release.",
+      "author": {
+        "date": "2012-08-30T14:17:08-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/e06a8cae3a1de58b770a66cbd124cf50e809fb31"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/e06a8cae3a1de58b770a66cbd124cf50e809fb31"
+  },
+  {
+    "parents": [
+      {
+        "sha": "0ca936d2c911fe037dda3cb9d6e21f6fe1735a2c",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/0ca936d2c911fe037dda3cb9d6e21f6fe1735a2c"
+      }
+    ],
+    "sha": "a31f28b02630e9554bc1900f6a35ef1b310cc3e2",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 2,
+      "tree": {
+        "sha": "2ee89df94befc80ad833d567dc7d133259367514",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/2ee89df94befc80ad833d567dc7d133259367514"
+      },
+      "committer": {
+        "date": "2012-08-30T14:07:03-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Update release script and notes builder.",
+      "author": {
+        "date": "2012-08-30T14:07:03-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/a31f28b02630e9554bc1900f6a35ef1b310cc3e2"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/a31f28b02630e9554bc1900f6a35ef1b310cc3e2"
+  },
+  {
+    "parents": [
+      {
+        "sha": "3a633b0082dbba0365c014ece03d39e8358da18b",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/3a633b0082dbba0365c014ece03d39e8358da18b"
+      }
+    ],
+    "sha": "0ca936d2c911fe037dda3cb9d6e21f6fe1735a2c",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 9,
+      "tree": {
+        "sha": "900b4ff1e5be077790b807a19126406b1b46def8",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/900b4ff1e5be077790b807a19126406b1b46def8"
+      },
+      "committer": {
+        "date": "2012-08-30T07:47:47-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Fix #12370. Explicitly coerce bool/undef to integer.",
+      "author": {
+        "date": "2012-08-30T07:47:47-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/0ca936d2c911fe037dda3cb9d6e21f6fe1735a2c"
+    },
+    "author": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/0ca936d2c911fe037dda3cb9d6e21f6fe1735a2c"
+  },
+  {
+    "parents": [
+      {
+        "sha": "670e3ff040b0a7164f36a3c5e07214420b8b09f4",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/670e3ff040b0a7164f36a3c5e07214420b8b09f4"
+      }
+    ],
+    "sha": "3a633b0082dbba0365c014ece03d39e8358da18b",
+    "committer": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "ecabfdbf044639c05214feed2be20bcdce901563",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/ecabfdbf044639c05214feed2be20bcdce901563"
+      },
+      "committer": {
+        "date": "2012-08-29T09:49:39-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "message": "Sizzle: POS selectors make more extensive use of tokenization. Fixes #12303.\n\nhttp://jqbug.com/12303",
+      "author": {
+        "date": "2012-08-29T09:49:17-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/3a633b0082dbba0365c014ece03d39e8358da18b"
+    },
+    "author": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/3a633b0082dbba0365c014ece03d39e8358da18b"
+  },
+  {
+    "parents": [
+      {
+        "sha": "be2899b3b1dfcd75516bbcf12c4eb49af9073538",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/be2899b3b1dfcd75516bbcf12c4eb49af9073538"
+      }
+    ],
+    "sha": "670e3ff040b0a7164f36a3c5e07214420b8b09f4",
+    "committer": {
+      "login": "dmethvin",
+      "avatar_url": "https://secure.gravatar.com/avatar/161a4cc619398bea1e1714036ed122cf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "161a4cc619398bea1e1714036ed122cf",
+      "id": 157858,
+      "url": "https://api.github.com/users/dmethvin"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "e647ec42a4874f9bd744cd07a45b188fa973d33a",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/e647ec42a4874f9bd744cd07a45b188fa973d33a"
+      },
+      "committer": {
+        "date": "2012-08-29T09:34:12-07:00",
+        "email": "dave.methvin@gmail.com",
+        "name": "Dave Methvin"
+      },
+      "message": "Fix #12243, $(\"col\").width() should return the column's width. Close gh-916.",
+      "author": {
+        "date": "2012-08-29T05:50:56-07:00",
+        "email": "mike.sherov@gmail.com",
+        "name": "Mike Sherov"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/670e3ff040b0a7164f36a3c5e07214420b8b09f4"
+    },
+    "author": {
+      "login": "mikesherov",
+      "avatar_url": "https://secure.gravatar.com/avatar/a123410cfb9ea6510294a295bb548530?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "a123410cfb9ea6510294a295bb548530",
+      "id": 364532,
+      "url": "https://api.github.com/users/mikesherov"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/670e3ff040b0a7164f36a3c5e07214420b8b09f4"
+  },
+  {
+    "parents": [
+      {
+        "sha": "9683f82d9d89059371fe2e4428f2d4fe676966f2",
+        "url": "https://api.github.com/repos/jquery/jquery/commits/9683f82d9d89059371fe2e4428f2d4fe676966f2"
+      }
+    ],
+    "sha": "be2899b3b1dfcd75516bbcf12c4eb49af9073538",
+    "committer": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "commit": {
+      "comment_count": 0,
+      "tree": {
+        "sha": "8ef331e7eba7e7221a94924e119a08a8d1eddf2f",
+        "url": "https://api.github.com/repos/jquery/jquery/git/trees/8ef331e7eba7e7221a94924e119a08a8d1eddf2f"
+      },
+      "committer": {
+        "date": "2012-08-29T07:40:15-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "message": "Sizzle: tweak for root selector shortcut. Fixes #12419.",
+      "author": {
+        "date": "2012-08-29T07:40:15-07:00",
+        "email": "timmywillisn@gmail.com",
+        "name": "Timmy Willison"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery/git/commits/be2899b3b1dfcd75516bbcf12c4eb49af9073538"
+    },
+    "author": {
+      "login": "timmywil",
+      "avatar_url": "https://secure.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+      "gravatar_id": "6b57220ae48e1ac5d02227bdada8a4d6",
+      "id": 192451,
+      "url": "https://api.github.com/users/timmywil"
+    },
+    "url": "https://api.github.com/repos/jquery/jquery/commits/be2899b3b1dfcd75516bbcf12c4eb49af9073538"
+  }
+]
